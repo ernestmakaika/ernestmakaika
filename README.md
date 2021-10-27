@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @ernestmakaika
-- 👀 I’m interested in User Experience Design
-- 🌱 I’m currently learning Webflow and CRUD operations in PHP using OOP
-- 📫 Reach me on Twitter  https://twitter.com/EMakaika
+- 👋 Hi, I’m Ernest Makaika
+- 🌱 I’m a budding User Experience Designer
