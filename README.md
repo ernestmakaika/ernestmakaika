@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Ernest Makaika
-- 🌱 I’m a budding User Experience Designer
+- 🌱 I’m a budding designer interested in visual and interaction design. I'm passionate about inclusive and accessible design
